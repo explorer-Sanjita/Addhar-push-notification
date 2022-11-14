@@ -1,0 +1,12 @@
+
+# folders
+/logs
+/db
+/uploads
+/vendor
+
+# files
+.env
+.htaccess
+.composer.lick
+
